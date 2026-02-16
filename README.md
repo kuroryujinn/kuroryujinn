@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Tanmay Chakraborty 
 
-<!--
-**kuroryujinn/kuroryujinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student focused on building intelligent systems — not just writing code.
 
-Here are some ideas to get you started:
+I work on:
+- 🤖 Machine Learning & Deep Learning models  
+- 🧠 Agentic AI pipelines and autonomous workflows  
+- 🌦 Predictive systems (time-series + trend-based forecasting)  
+- 🌐 IoT + Web integrations (real-time monitoring, alerts, automation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Languages: Python, Java, C  
+- ML/DL: scikit-learn, TensorFlow / PyTorch  
+- Data: NumPy, Pandas, Matplotlib  
+- Backend: Flask / FastAPI  
+- Hardware: Arduino (ATmega328P), Bluetooth modules  
+- Tools: Git, GitHub, VS Code
+
+### 🚀 What I’m Currently Exploring
+- Deep Learning architectures  
+- Agent-based AI systems  
+- Model deployment & scalable ML pipelines  
+- Building intelligent automation tools
+
+I like building systems that think, adapt, and act — not just scripts that run.
