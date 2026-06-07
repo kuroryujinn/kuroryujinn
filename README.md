@@ -9,12 +9,7 @@ I work on:
 - 🌐 IoT + Web integrations (real-time monitoring, alerts, automation)
 
 ### 🛠 Tech Stack
-- Languages: Python, Java, C  
-- ML/DL: scikit-learn, TensorFlow / PyTorch  
-- Data: NumPy, Pandas, Matplotlib  
-- Backend: Flask / FastAPI  
-- Hardware: Arduino (ATmega328P), Bluetooth modules  
-- Tools: Git, GitHub, VS Code
+![Demo](demo2.gif)
 
 ### 🚀 What I’m Currently Exploring
 - Deep Learning architectures  
