@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tanmay Chakraborty 
+![Demo](demo.gif)
 
 Engineering student focused on building intelligent systems — not just writing code.
 
