@@ -1,13 +1,13 @@
 ![Demo](demo.gif)
 
-Engineering student focused on building intelligent systems — not just writing code.
+---
+# Engineering student focused on building intelligent systems — not just writing code.
+---
+![Demo](demo4.gif)
 
-I work on:
-- 🤖 Machine Learning & Deep Learning models  
-- 🧠 Agentic AI pipelines and autonomous workflows  
-- 🌦 Predictive systems (time-series + trend-based forecasting)  
-- 🌐 IoT + Web integrations (real-time monitoring, alerts, automation)
+![Demo](demo3.gif)
 
+---
 ### 🛠 Tech Stack
 ![Demo](demo2.gif)
 
